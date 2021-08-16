@@ -1,2 +1,2 @@
 # ML_LogisiticRegression
-Breast cancer detection using logistic regression
+Predicting whether the breast cancer is benign or malignant
